@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Lucas Tionohoue 
 
-🎯 **Étudiant en Informatique **  
+### Étudiant en informatique à l’Université de Montréal.
 💡 Passionné par la sécurité offensive/défensive, le Cloud et le DevSecOps.  
 
 ---
