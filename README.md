@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis Lucas / Romain  
+# 👋 Bonjour, je suis Lucas Tionohoue 
 
-🎯 **Étudiant en cybersécurité & cloud computing**  
+🎯 **Étudiant en Informatique **  
 💡 Passionné par la sécurité offensive/défensive, le Cloud et le DevSecOps.  
 
 ---
